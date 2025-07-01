@@ -39,6 +39,7 @@ bash
 Copy
 Edit
 git clone https://github.com/your-username/OrderOnTheGo.git
+
 cd OrderOnTheGo
 Install dependencies:
 
