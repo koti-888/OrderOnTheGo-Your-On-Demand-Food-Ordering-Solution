@@ -1,5 +1,5 @@
-🍔 OrderOnTheGo
 
+🍔 OrderOnTheGo
 OrderOnTheGo is your all-in-one, on-demand food ordering solution designed to simplify and streamline the process of browsing menus, placing orders, and receiving meals from your favorite local restaurants.
 
 🚀 Features
