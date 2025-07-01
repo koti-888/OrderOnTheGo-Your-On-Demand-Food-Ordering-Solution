@@ -1,7 +1,9 @@
 🍔 OrderOnTheGo
+
 OrderOnTheGo is your all-in-one, on-demand food ordering solution designed to simplify and streamline the process of browsing menus, placing orders, and receiving meals from your favorite local restaurants.
 
 🚀 Features
+
 🧾 Dynamic Menu Browsing – Discover nearby restaurants and browse updated menus in real-time.
 
 🛒 Easy Ordering – Add items to your cart and place orders with just a few taps.
@@ -15,6 +17,7 @@ OrderOnTheGo is your all-in-one, on-demand food ordering solution designed to si
 🧑‍🍳 Restaurant Dashboard – A dedicated panel for restaurant partners to manage orders and menus.
 
 🏗️ Tech Stack
+
 Layer	Technology
 Frontend (User)	React Native / Flutter
 Backend	Node.js / Express
